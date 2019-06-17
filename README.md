@@ -1,2 +1,2 @@
 # weight-converter
-Converts pounds to kilos and vice versa
+Vue.js project that converts pounds to kilos and vice versa. 
